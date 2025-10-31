@@ -3,13 +3,15 @@
 &nbsp;
 
 ## 박기쁨
-*단국대학교 산업보안학과 (사이버보안학과)*
- 
-▷ 010-5603-0382  
-▷ muebbig@naver.com
+단국대학교 산업보안학과 (사이버보안학과)  
 
-▶ [Github | MUEBBIG  ](https://github.com/MUEBBIG)  
-▶ [Notion | 모의해킹 포트폴리오](https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link)
+> 010-5603-0382  
+> muebbig@naver.com  
+
+> [GitHub](https://github.com/MUEBBIG) | *MUEBBIG*  
+> [Notion](https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link) | *모의해킹 포트폴리오*  
+
+> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 &nbsp;
 
@@ -31,19 +33,28 @@
 &nbsp;
   
 ## 프로젝트 경험  
-  
-  
-## 대외활동  
-  
-  
-## 자기소개  
-> "저는 000 입니다"
-  
-  
-## 학습 목표  
+아아아
 
 &nbsp;
   
+## 대외활동  
+아아아
+
+&nbsp;
+  
+## 자기소개  
+> "저는 000 입니다"
+아아아  
+
+&nbsp;
+
+## 학습 목표  
+아아아  
+
+&nbsp;
+
+## (제출 시 삭제)
+
 | 평가항목 | 세부내용 | 배점 |
 |---|---|---|  
 | GitHub 계정 생성 및 설정 | 계정이 정상적으로 생성되었는지, 프로필 정보가 충실한지	| 20점 |  
@@ -54,5 +65,5 @@
 
 &nbsp;
 
-  << 공백문자
+ << 공백문자
   
