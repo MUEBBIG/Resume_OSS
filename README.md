@@ -44,10 +44,13 @@
 > ### 옷장 프로그램 [/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware)  
 > 아아아
 
-> ### 텔레그램 봇 [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
+> ### CCTV 텔레그램 봇 [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
 > 아아아
 
 > ### 리눅스 쉘 [/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming)  
+> 아아아
+
+> ### 몬스터 클릭 게임 [/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming)  
 > 아아아
 
 &nbsp;
