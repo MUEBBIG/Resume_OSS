@@ -1,6 +1,6 @@
 <div align="center">  
   
-![header](https://capsule-render.vercel.app/api?type=venom&text=Resume.&color=3c4e5f&fontColor=8593a0)  
+![header](https://capsule-render.vercel.app/api?type=venom&text=Resume.&color=3c4e5f&fontColor=94a4b2)  
 </div>
 
 # 1. 프로필
