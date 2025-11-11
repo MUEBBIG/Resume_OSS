@@ -41,25 +41,25 @@
   
 # 3. 프로젝트 및 스터디  
 ## 3-1. 보안  
-### 웹 해킹 ([/Projects/InternetSecurity/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/InternetSecurity))  
+### 웹 해킹 [/Projects/InternetSecurity/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/InternetSecurity)  
 > 웹 해킹 이론 학습, 관련 모의해킹 수행 <br> - SQL Injection, SSRF, XXS, 파일 업로드 및 다운로드, 세션 고정 및 파라미터 변조, 인터넷 뱅킹 모의해킹 등  
 
-### 랜섬웨어 개발 ([/Projects/OperatingSystem/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/OperatingSystem))  
-> 랜섬웨어 구현 (C) <br> - 16Bytes random mask 생성, plaintext와 mask XOR, mask 암호화  
+### 랜섬웨어 개발 (C) [/Projects/OperatingSystem/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/OperatingSystem)  
+> 랜섬웨어 구현 <br> - 16Bytes random mask 생성, plaintext와 mask XOR, mask 암호화  
 
-> 복원 시스템 구현 (C) <br> - mask 복호화, ciphertext와 mask XOR  
+> 복원 시스템 구현 <br> - mask 복호화, ciphertext와 mask XOR  
 
 ## 3-2. 개발  
-### 옷장 프로그램 ([/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware))  
-> 기온 기반 의상 추천 프로그램 제작 (Python) <br> - 기온 크롤링, 의상 분류 로직, 보유 의상 추가 로직, UI 구성  
+### 옷장 프로그램 (Python) [/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware)  
+> 기온 기반 의상 추천 프로그램 제작 <br> - 기온 크롤링, 의상 분류 로직, 보유 의상 추가 로직, UI 구성  
 
-### CCTV 텔레그램 봇 ([/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux))  
-> 카메라, 인체감지센서 활용 텔레그램 봇 제작 (Python, Raspberry Pi) <br> - 텔레그램 연동, 인체 감지 시 영상 녹화 및 텔레그램 메시지 전송
+### CCTV 텔레그램 봇 (Python, Rasberry Pi) [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
+> 카메라, 인체감지센서 활용 텔레그램 봇 제작 <br> - 텔레그램 연동, 인체 감지 시 영상 녹화 및 텔레그램 메시지 전송
 
-### 리눅스 쉘 ([/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming))  
-> 리눅스 쉘 구현 (C) <br> - (Enter), help, ls, echo, cat, rm, quit, sleep, ps 등
+### 리눅스 쉘 (C) [/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming)  
+> 리눅스 쉘 구현 <br> - (Enter), help, ls, echo, cat, rm, quit, sleep, ps 등
 
-### Click-The-Monster! 게임 ([/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming))  
+### Click-The-Monster! 게임 (Java) [/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming)  
 > 몬스터 클릭 게임 제작 <br> - 몬스터 클릭 시 제거, 공격형 몬스터 클릭 시 플레이어 체력 감소, 체력 회복 물약 클릭 시 체력 증가, 시간 내 몬스터 모두 제거 시 승리
 
 &nbsp;
