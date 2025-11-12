@@ -42,60 +42,63 @@
 # 3. 프로젝트 및 스터디  
 ## 3-1. 보안  
 ### 웹 해킹 [/Projects/InternetSecurity/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/InternetSecurity)  
-> 웹 해킹 이론 학습, 관련 모의해킹 수행 <br> - SQL Injection, SSRF, XXS, 파일 업로드 및 다운로드, 세션 고정 및 파라미터 변조, 인터넷 뱅킹 모의해킹 등  
+- 웹 해킹 이론 학습, 관련 모의해킹 수행 <br> - SQL Injection, SSRF, XXS, 파일 업로드 및 다운로드, 세션 고정 및 파라미터 변조, 인터넷 뱅킹 모의해킹 등  
 
-### 랜섬웨어 개발 (C) [/Projects/OperatingSystem/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/OperatingSystem)  
-> 랜섬웨어 구현 <br> - 16Bytes random mask 생성, plaintext와 mask XOR, mask 암호화  
+### 랜섬웨어 개발 *(C)* [/Projects/OperatingSystem/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/OperatingSystem)  
+- 랜섬웨어 구현 <br> - 16Bytes random mask 생성, plaintext와 mask XOR, mask 암호화  
 
-> 복원 시스템 구현 <br> - mask 복호화, ciphertext와 mask XOR  
+- 복원 시스템 구현 <br> - mask 복호화, ciphertext와 mask XOR  
 
 ## 3-2. 개발  
-### 옷장 프로그램 (Python) [/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware)  
-> 기온 기반 의상 추천 프로그램 제작 <br> - 기온 크롤링, 의상 분류 로직, 보유 의상 추가 로직, UI 구성  
+### 옷장 프로그램 *(Python)* [/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware)  
+- 기온 기반 의상 추천 프로그램 제작 <br> - 기온 크롤링, 의상 분류 로직, 보유 의상 추가 로직, UI 구성  
 
-### CCTV 텔레그램 봇 (Python, Rasberry Pi) [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
-> 카메라, 인체감지센서 활용 텔레그램 봇 제작 <br> - 텔레그램 연동, 인체 감지 시 영상 녹화 및 텔레그램 메시지 전송
+### CCTV 텔레그램 봇 *(Python, Rasberry Pi)* [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
+- 카메라, 인체감지센서 활용 텔레그램 봇 제작 <br> - 텔레그램 연동, 인체 감지 시 영상 녹화 및 텔레그램 메시지 전송
 
-### 리눅스 쉘 (C) [/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming)  
-> 리눅스 쉘 구현 <br> - (Enter), help, ls, echo, cat, rm, quit, sleep, ps 등
+### 리눅스 쉘 *(C)* [/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming)  
+- 리눅스 쉘 구현 <br> - (Enter), help, ls, echo, cat, rm, quit, sleep, ps 등
 
-### Click-The-Monster! 게임 (Java) [/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming)  
-> 몬스터 클릭 게임 제작 <br> - 몬스터 클릭 시 제거, 공격형 몬스터 클릭 시 플레이어 체력 감소, 체력 회복 물약 클릭 시 체력 증가, 시간 내 몬스터 모두 제거 시 승리
+### Click-The-Monster! 게임 *(Java)* [/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming)  
+- 몬스터 클릭 게임 제작 <br> - 몬스터 클릭 시 제거, 공격형 몬스터 클릭 시 플레이어 체력 감소, 체력 회복 물약 클릭 시 체력 증가, 시간 내 몬스터 모두 제거 시 승리
 
 &nbsp;
   
 # 4. 대외활동  
 | 활동 기간 | 활동명 | 분류 | 주관 | 활동 내용 |
 |:---:|:---:|:---:|:---:|---|  
-| 2025 | 생성형 AI 시대의 비즈니스 사운드 전략 모색 : 소닉 브랜딩을 중심으로 <br> Exploring Strategies for Business Sound in the Generative AI Era : A Focus on Sonic Branding | 논문 | 정보통신정책학회 | - 논문 |  
-| 2025.11.21. | 정보통신정책학회 2025 정기학술대회 <br> : 글로벌 인공지능(AI) 시대의 사회적 협력과 정책과제 | 학술대회 | 정보통신정책학회 | - 논문 |  
-| 2024.09.01. ~ 2026.02.28 | 단국대학교 비즈니스인텔리전스연구소 <br> (교육부 산학협력정책연구소) 학부연구생 | 학부연구생 | 단국대학교 | - 학부연구생 |  
-| 2025.07.01. ~ 2025.08.31. | 2025 여름방학 쏙쏙캠프 | 교육기부 | 교육부 <br> 한국과학창의재단 | - 중학교 1~3학년 대상 파이썬 기초 강의 및 실습 <br> - 강의 내용 구성 및 강의 자료 제작 <br> - 활동 물품, 식사 및 간식 준비 <br> - 계획서 및 보고서 작성 |  
+| 2024.09.<br>~ ing | 단국대학교 비즈니스인텔리전스연구소 <br> (교육부 산학협력정책연구소) 학부연구생 | 학부연구생 | 단국대학교 | - 교육부 산학협력정책 연구 <br> - 교육부 산학협력정책 계획서 및 보고서 검토 |  
+| 2025.12. | 생성형 AI 시대의 비즈니스 사운드 전략 모색 <br> : 소닉 브랜딩을 중심으로 | 논문 | 정보통신정책학회 | - 소닉 브랜딩 및 소닉 브랜딩 효과 연구 <br> - 생성형 AI 발전 과정과 원리 연구 <br> - 소닉 브랜딩 분야 AI 활용 연구 |  
+| 2025.11. | 정보통신정책학회 2025 정기학술대회 <br> : 글로벌 인공지능(AI) 시대의 사회적 협력과 정책과제 | 학술대회 | 정보통신정책학회 | - 소닉 브랜딩 및 소닉 브랜딩 효과 발표 <br> - 생성형 AI 발전 과정과 원리 발표 <br> - 소닉 브랜딩 분야 AI 활용 발표 |  
+| 2025.07.<br>~<br> 2025.08. | 2025 여름방학 쏙쏙캠프 | 교육기부 | 교육부, <br> 한국과학창의재단 | - 중학교 1~3학년 대상 파이썬 기초 강의 및 실습 <br> - 강의 내용 구성 및 강의 자료 제작 <br> - 활동 물품, 식사 및 간식 준비 <br> - 계획서 및 보고서 작성 |  
 
 &nbsp;
   
 # 5. 자기소개  
+
+<img src="https://github.com/user-attachments/assets/ed31cd98-79aa-4267-8c33-d63ef4c41414" width="300">  
+
 ### " 집요한 호기심 "  
 &nbsp;  
-제가 가진 다양한 성향 중, 가장 자랑스럽게 생각하는 성향입니다.  
+제가 가진 다양한 성향 중, 가장 자랑스럽게 생각하는 것입니다.  
 
-집요함도, 호기심도, 원한다고 가질 수 있는 것이 아니기 때문입니다.  
+**집요함**도, **호기심**도, 원한다고 가질 수 있는 것이 아니기 때문입니다.  
 &nbsp;  
 
-저는 무언가를 알아가는 것, 공부하고 탐구하는 것을 진심으로 즐길 수 있는 능력을 가졌습니다.  
+저는 무언가를 **알아가는** 것, **공부**하고 **탐구**하는 것을 **진심으로 즐길 수 있는** 능력을 가졌습니다.  
 
-새로운 취약점과 해킹 기법을 탐구하는 것이 저에게는 가장 큰 즐거움입니다.  
+**새로운 취약점**과 **해킹 기법**을 탐구하는 것이 저에게는 가장 큰 **즐거움**입니다.  
 &nbsp;  
 
-집요한 호기심을 가지고, 끝까지 물고 늘어지는 모의해킹 전문가가 되겠습니다.
+**집요한 호기심**을 가지고, **끝까지 물고 늘어지는** 모의해킹 전문가가 되겠습니다.
 
 &nbsp;
 
 # 6. 목표  
 ### :seedling: 개인 서버 및 웹 페이지 운영, 모의해킹 실습 및 취약점 보완  
 
-### :seedling: 정보처리기사 취득  
+### :seedling: 정보처리기사  
 
-### :seedling: TOEIC 800 달성  
+### :seedling: TOEIC 800  
 
 &nbsp;
