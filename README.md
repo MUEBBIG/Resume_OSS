@@ -13,8 +13,8 @@
 > [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=d14836&link=mailto:muebbig@gmail.com)](mailto:muebbig@gmail.com)  
 > 010-56XX-0382  
 
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/MUEBBIG/Resume_OSS)](https://github.com/MUEBBIG/Resume_OSS)  
-> MUEBBIG/Resume_OSS  
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/MUEBBIG)](https://github.com/MUEBBIG)  
+> MUEBBIG  
 
 > [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link)](https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link)  
 > 모의해킹 포트폴리오  
