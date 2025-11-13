@@ -11,14 +11,14 @@
 단국대학교 산업보안학과 (사이버보안학과) 재학  
 &nbsp;
 > [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=d14836&link=mailto:muebbig@gmail.com)](mailto:muebbig@gmail.com)  
-> *010-56XX-0382*  
+> 010-56XX-0382  
 
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/MUEBBIG/Resume_OSS)](https://github.com/MUEBBIG/Resume_OSS)  
-> *MUEBBIG/Resume_OSS*  
+> MUEBBIG/Resume_OSS  
 
 > [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link)](https://www.notion.so/29d486e71f768099931cf52ac43268d8?source=copy_link)  
-> *모의해킹 포트폴리오  
-> ~(Notion은 샘플입니다. 실제 내용은 없습니다.)~*  
+> 모의해킹 포트폴리오  
+> *~(Notion은 샘플입니다. 실제 내용은 없습니다.)~*  
 
 &nbsp;
 
@@ -42,32 +42,32 @@
 # 3. 프로젝트 및 스터디  
 ## 3-1. 보안  
 ### 웹 해킹 [/Projects/InternetSecurity/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/InternetSecurity)  
-- 웹 해킹 이론 학습, 관련 모의해킹 수행 <br> - SQL Injection, SSRF, XXS, 파일 업로드 및 다운로드, 세션 고정 및 파라미터 변조, 인터넷 뱅킹 모의해킹 등  
+- 웹 해킹 이론 학습, 관련 모의해킹 수행  <br> - SQL Injection <br> - SSRF <br> - XXS <br> - 파일 업로드 및 다운로드 <br> - 세션 고정 및 파라미터 변조 <br> - 인터넷 뱅킹 모의해킹  
 
 ### 랜섬웨어 개발 *(C)* [/Projects/OperatingSystem/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/OperatingSystem)  
-- 랜섬웨어 구현 <br> - 16Bytes random mask 생성, plaintext와 mask XOR, mask 암호화  
+- 랜섬웨어 구현 <br> - 16Bytes random mask 생성 <br> - plaintext와 mask XOR <br> - mask 암호화  
 
-- 복원 시스템 구현 <br> - mask 복호화, ciphertext와 mask XOR  
+- 복원 시스템 구현 <br> - mask 복호화 <br> - ciphertext와 mask XOR  
 
 ## 3-2. 개발  
 ### 옷장 프로그램 *(Python)* [/Projects/BasicSoftware/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/BasicSoftware)  
-- 기온 기반 의상 추천 프로그램 제작 <br> - 기온 크롤링, 의상 분류 로직, 보유 의상 추가 로직, UI 구성  
+- 기온 기반 의상 추천 프로그램 제작 <br> - 기온 크롤링 <br> - 의상 분류 로직 <br> - 보유 의상 추가 로직 <br> - UI 구성  
 
 ### CCTV 텔레그램 봇 *(Python, Rasberry Pi)* [/Projects/Linux/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/Linux)  
-- 카메라, 인체감지센서 활용 텔레그램 봇 제작 <br> - 텔레그램 연동, 인체 감지 시 영상 녹화 및 텔레그램 메시지 전송
+- 카메라, 인체감지센서 활용 텔레그램 봇 제작 <br> - 텔레그램 연동 <br> - 인체 감지 시 영상 녹화 <br> - 텔레그램 메시지 전송 및 제어
 
 ### 리눅스 쉘 *(C)* [/Projects/SystemPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/SystemPrograming)  
-- 리눅스 쉘 구현 <br> - (Enter), help, ls, echo, cat, rm, quit, sleep, ps 등
+- 리눅스 쉘 구현 <br> - (Enter) <br> - help <br> - ls <br> - echo <br> - cat <br> - rm <br> - quit <br> - sleep <br> - ps
 
 ### Click-The-Monster! 게임 *(Java)* [/Projects/AdvancedPrograming/](https://github.com/MUEBBIG/Resume_OSS/tree/main/Projects/AdvancedPrograming)  
-- 몬스터 클릭 게임 제작 <br> - 몬스터 클릭 시 제거, 공격형 몬스터 클릭 시 플레이어 체력 감소, 체력 회복 물약 클릭 시 체력 증가, 시간 내 몬스터 모두 제거 시 승리
+- 몬스터 클릭 게임 제작 <br> - 몬스터 클릭 시 제거 <br> - 공격형 몬스터 클릭 시 플레이어 체력 감소 <br> - 체력 회복 물약 클릭 시 체력 증가 <br> - 시간 내 몬스터 모두 제거 시 승리
 
 &nbsp;
   
 # 4. 대외활동  
 | 활동 기간 | 활동명 | 분류 | 주관 | 활동 내용 |
 |:---:|:---:|:---:|:---:|---|  
-| 2024.09.<br>~ ing | 단국대학교 비즈니스인텔리전스연구소 (교육부 산학협력정책연구소) 학부연구생 | 학부연구생 | 단국대학교 | - 교육부 산학협력정책 연구 <br> - 교육부 산학협력정책 계획서 및 보고서 검토 |  
+| 2024.09.<br>~ ing | 단국대학교 비즈니스인텔리전스연구소 <br> (교육부 산학협력정책연구소) 학부연구생 | 학부연구생 | 단국대학교 | - 교육부 산학협력정책 연구 <br> - 교육부 산학협력정책 계획서 및 보고서 검토 |  
 | 2025.12. | 생성형 AI 시대의 비즈니스 사운드 전략 모색 <br> : 소닉 브랜딩을 중심으로 | 논문 | 정보통신정책학회 | - 소닉 브랜딩 및 소닉 브랜딩 효과 연구 <br> - 생성형 AI 발전 과정과 원리 연구 <br> - 소닉 브랜딩 분야 AI 활용 연구 |  
 | 2025.11. | 정보통신정책학회 2025 정기학술대회 <br> : 글로벌 인공지능(AI) 시대의 사회적 협력과 정책과제 | 학술대회 | 정보통신정책학회 | - 소닉 브랜딩 및 소닉 브랜딩 효과 발표 <br> - 생성형 AI 발전 과정과 원리 발표 <br> - 소닉 브랜딩 분야 AI 활용 발표 |  
 | 2025.07.<br>~<br> 2025.08. | 2025 여름방학 쏙쏙캠프 | 교육기부 | 교육부, <br> 한국과학창의재단 | - 중학교 1~3학년 대상 파이썬 기초 강의 및 실습 <br> - 강의 내용 구성 및 강의 자료 제작 <br> - 활동 물품, 식사 및 간식 준비 <br> - 계획서 및 보고서 작성 |  
